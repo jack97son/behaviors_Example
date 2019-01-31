@@ -1,0 +1,10 @@
+<?php
+
+function behaviors_example_theme($existing, $type, $theme, $path) {
+    return [
+      'behaviors_example' => [
+        'variables' => [],
+      ],
+    ];
+  }
+  

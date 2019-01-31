@@ -1,0 +1,5 @@
+name: 'behaviors'
+type: module
+description: 'examples behaviors'
+core: 8.x
+package: 'Behaviors'

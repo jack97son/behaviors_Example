@@ -1,0 +1,11 @@
+example:
+  version: 1.x
+  css:
+    theme:
+      css/example.css: {}
+  js:
+    js/example.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once
+    - core/drupalSettings  
